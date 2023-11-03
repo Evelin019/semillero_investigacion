@@ -1,4 +1,4 @@
-# DISEÑO DE UN SISTEMA DE MONITOREO PARA EL PROCESO DE GERMINACIÓN Y DESARROLLO DE PLÁNTULAS DE RÁBANO EN HUERTAS URBANAS
+# Diseño de un Sistema de Monitoreo para el Proceso de Germinación y Desarrollo de Plántulas de Rabano en Huertas Urbanas
 
 Este proyecto se centra en la creación de un sistema de monitoreo de ambiente para cultivos, también conocido como agricultura inteligente. El objetivo principal es proporcionar a los agricultores una solución que les permita supervisar de manera eficiente las condiciones ambientales, como temperatura y humedad, en sus campos o invernaderos. Esto se logra mediante la integración de sensores y un microcontrolador (Arduino) para recopilar datos en tiempo real y un servidor Python para visualizar y registrar estos datos.
 
